@@ -1,6 +1,6 @@
 # Natural-Launguage-Processing
 Here are all the tasks and extercises I performed while pursuing natural language processing as a program elective subject at Vellore Institute of Technology.
-Following are the lists of tasks I performed
+Following is the list of tasks I performed
 1. Stop word removal and tokenization
 2. Implementation of countvectorizer and TFIDF
 3. Lemmatization
